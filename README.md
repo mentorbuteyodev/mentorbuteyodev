@@ -25,7 +25,7 @@ I’m always open to collaborating on innovative projects and welcome contributi
 ## 📫 How to Reach Me
 - **LinkedIn**: [Mentor Buteyo](https://linkedin.com/in/mentorbuteyo)
 - **Facebook**: [Mentor Buteyo](https://www.facebook.com/mentor.buteyo.5)
-- **Instagram**: [Mentor Buteyo](https://www.instagram.com/mentor_buteyo/)
+- **Instagram**: [@mentor_buteyo](https://www.instagram.com/mentor_buteyo/)
 - **X**: [Mentor Buteyo](https://x.com/mentor_buteyo?mx=2)
 
 ---
