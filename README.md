@@ -25,6 +25,15 @@ I am working on a **Climate Change Visualization Project** that involves deep cl
 ### 🎥 YouTube Video Downloader
 A modern Django-based web app that allows users to download YouTube videos and audio in different formats with ease.
 
+## 💻Featured Youtube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+[![🎥 Live Coding Challenge (03/30): Masking Sensitive Information with JavaScript! 🚀](https://ytcards.demolab.com/?id=Mqqd3KATXZg&title=🎥+Live+Coding+Challenge+(03/30):+Masking+Sensitive+Information+with+JavaScript!+🚀&lang=en&timestamp=1725742800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1274
+)](https://youtube.com/live/Mqqd3KATXZg)
+[![🎥 Coding Live(Challenge 02/30): Exploring Narcissistic (Armstrong) Numbers! 🧠💡](https://ytcards.demolab.com/?id=1yKFM-QDSwY&title=🎥+Coding+Live(Challenge+02/30):+Exploring+Narcissistic+(Armstrong)+Numbers!+🧠💡&lang=en&timestamp=1725656400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4696)](https://youtube.com/live/1yKFM-QDSwY)
+[![🔥 Master Hive Database in Flutter: CRUD Operations & Dialogs | Part 2 Of To-Do App🚀](https://ytcards.demolab.com/?id=f-Ta3dxdTRo&title=🔥+Master+Hive+Database+in+Flutter:+CRUD+Operations+&+Dialogs+|+Part+2+Of+To-Do+App🚀&lang=en&timestamp=1716843600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12040)](https://youtube.com/live/f-Ta3dxdTRo)
+
+<!-- END YOUTUBE-CARDS -->
+
 ## 🛠️ Open to Collaborations
 I’m always open to collaborating on innovative projects and welcome contributions to my existing projects. If you have an idea or want to join forces on a project, feel free to reach out!
 
